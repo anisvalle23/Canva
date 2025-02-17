@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Inicio.png</file>
+        <file>resources/Registro.png</file>
+        <file>resources/InicioAlumno.png</file>
+        <file>resources/RegistroMaestro.png</file>
+        <file>resources/Alumnos.png</file>
+        <file>resources/Cuenta.png</file>
+        <file>resources/NuevoAlumnos.png</file>
+        <file>resources/AlumnoModi.png</file>
+        <file>resources/ModificarAlumnos.png</file>
+        <file>resources/EliminarAlumno.png</file>
+        <file>resources/NuevoMaestro.png</file>
+        <file>resources/Maestros.png</file>
+        <file>resources/ModMa2.png</file>
+        <file>resources/ModMa.png</file>
+        <file>resources/EliminarMa.png</file>
+        <file>resources/Clases.png</file>
+        <file>resources/NuevClas.png</file>
+        <file>resources/ModClas.png</file>
+        <file>resources/ModCla2.png</file>
+        <file>resources/ElimCla.png</file>
+        <file>resources/Asignacion.png</file>
+        <file>resources/MatriAlum.png</file>
+        <file>resources/AsignarMa.png</file>
+        <file>resources/Usuarios.png</file>
+        <file>resources/NuevoUsu.png</file>
+        <file>resources/ModUsu.png</file>
+        <file>resources/ModUsu2.png</file>
+        <file>resources/ElimUsu.png</file>
+        <file>resources/Salir.png</file>
+        <file>resources/CuentaMaestro.png</file>
+        <file>resources/ejecuta.png</file>
+        <file>resources/eliminarta.png</file>
+        <file>resources/ordenarta.png</file>
+        <file>resources/tareapen.png</file>
+        <file>resources/crearta.png</file>
+        <file>resources/TareasMa.png</file>
+        <file>resources/resultados.png</file>
+        <file>resources/elemexa.png</file>
+        <file>resources/modexa.png</file>
+        <file>resources/crearexa.png</file>
+        <file>resources/examenes.png</file>
+    </qresource>
+</RCC>
