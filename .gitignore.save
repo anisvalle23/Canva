@@ -1,0 +1,25 @@
+# Ignorar archivos de compilacin y Qt
+build*/
+debug/
+release/
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+Makefile
+^X
+^x
+
+
+
+
